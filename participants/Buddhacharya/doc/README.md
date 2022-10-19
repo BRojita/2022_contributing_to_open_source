@@ -1,13 +1,13 @@
-Ok so I guess you are reading this cuz you wanna use my code. There are some
-functions that do stuf and thats:
+Factorial Function
+Follow this example to produce factorial of a number:
 
     >>> from simple_functions import factorial
-    >>> factorial(10)
-    9
+    >>> x = factorial(10)
+    3628800
 
-and this other part does something.  I forget why that I did it:
+Fabonacci Series
+Follow this example to produce Fabonacci series of a number:
 
     >>> fibonnaccci(100)
     [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 
-If you can't use it, its kind of your problem, not mine!
